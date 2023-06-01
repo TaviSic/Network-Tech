@@ -1,0 +1,50 @@
+ul {
+    background-image: linear-gradient(to right, #6495ED, #4169E1);
+margin: 0;
+padding:0;
+height: 80px;
+width: auto;
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+    }
+
+    
+    li {
+list-style: none; 
+margin: 3px;
+display: inline-block;
+ 
+    }
+
+    .logo {
+
+      width: 310px;
+      height: auto;
+      position: absolute;
+      left: 10px; 
+      top: 50%;
+      transform: translateY(-50%);
+      max-width: 150%; 
+    }
+
+  
+     
+
+    li a {
+       padding:15px;   
+       margin:0 6px; 
+        background: #4169E1;
+       text-decoration: none;
+       border-color: darkcyan;
+        color:#FFF;
+        border-radius:5px;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        }
+        li a:hover {
+        background: white;
+       color: darkcyan; 
+        border-color: darkcyan;
+        border-radius: 5px;
+        }
