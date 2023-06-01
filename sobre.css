@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-image: url(https://c.wallhere.com/photos/a9/60/Adam_Taylor_digital_art_artwork_illustration_space_event_horizon_planet_stars-2221052.jpg!d);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+h1 {
+    color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 1.0);
+    
+}
+
+h2 {
+    color: lightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 1.0);
+}
+
+p {
+    font-size: larger;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1.0);
+}
